@@ -27,7 +27,7 @@
                         </nav>
 
                         <!-- Title -->
-                        <h4 class="h4-sm steelblue-color">Pilonidal Sinus
+                        <h4 class="h4-sm steelblue-color">Pilonidal Sinus Treatment in Pune
                         </h4>
 
                     </div>

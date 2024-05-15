@@ -28,7 +28,7 @@
                         </nav>
 
                         <!-- Title -->
-                        <h4 class="h4-sm steelblue-color">Gastritis/Acid Reflux/Acidity
+                        <h4 class="h4-sm steelblue-color">Gastritis/Acid Reflux/Acidity Treatment in Pune
                         </h4>
 
                     </div>

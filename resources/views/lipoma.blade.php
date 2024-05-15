@@ -24,7 +24,7 @@
                         </nav>
 
                         <!-- Title -->
-                        <h4 class="h4-sm steelblue-color">Lipoma</h4>
+                        <h4 class="h4-sm steelblue-color">Lipoma Treatment in Pune</h4>
 
                     </div>
                 </div>

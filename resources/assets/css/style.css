@@ -3502,7 +3502,8 @@ td.text-right {
 
 .s2-page h5.h5-md {
     margin-top: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    font-size: 25px;
 }
 
 .s1-page .btn {
@@ -7941,17 +7942,32 @@ img.footer-logo1 {
     border: 1px solid #e3e3e1;
     border-left: none;
 }
+
 p.mb-30.hernia-sec-txt1.extr {
     padding: 1px 0px;
     font-style: italic;
     font-size: 22px;
     font-weight: 500;
 }
-.sec-button{
-    background-color: #9b3875; border:1px solid #9b3875
+
+.sec-button {
+    background-color: #9b3875;
+    border: 1px solid #9b3875
 }
+
 .sec-button:hover {
     background-color: #381a40;
     border: 1px solid #583249;
-    color:#fff;
+    color: #fff;
+}
+
+.service-page-section.division h6.blue-color {
+    font-size: 20px;
+}
+
+#header-2 .desktoplogo img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }

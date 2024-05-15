@@ -1,7 +1,7 @@
 <section class="footer-sec1 desktop-view">
     <div class="container-fluid" style="padding-left: 0px;padding-right:0px">
         <div class="footer-sec">
-            <a href="tel:+919850085979 "> <img src="{{ asset('/resources/assets/images/footer-banner.jpg') }}" alt=""></a>
+            <a href="tel:+919850085079"> <img src="{{ asset('/resources/assets/images/footer-banner.jpg') }}" alt=""></a>
             {{-- <img src="{{ asset('/resources/assets/images/footer-banner 1.jpg')}}"  alt="" > --}}
             {{-- <div class="row">
             <div class="col-md-9 col-lg-9 col-xl-9">
@@ -22,7 +22,7 @@
 <section class="footer-sec1 mobile-view">
     <div class="container-fluid" style="padding-left: 0px;padding-right:0px">
         <div class="footer-sec">
-            <a href="tel:+919850085979 "> <img src="{{ asset('/resources/assets/images/mobile-footer-banner.jpg') }}" alt=""></a>
+            <a href="tel:+919850085079"> <img src="{{ asset('/resources/assets/images/mobile-footer-banner.jpg') }}" alt=""></a>
             {{-- <img src="{{ asset('/resources/assets/images/footer-banner 1.jpg')}}"  alt="" > --}}
             {{-- <div class="row">
                 <div class="col-md-9 col-lg-9 col-xl-9">
@@ -55,12 +55,10 @@
                     <!-- Footer Logo -->
                     <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80  pixels) -->
                     <a
-                    href="tel:+919850085979
-                "> <img src="{{ asset('/resources/assets/images/dr-renu-pimpale-logo.png') }}" alt=""
+                    href="tel:+919850085079"> <img src="{{ asset('/resources/assets/images/dr-renu-pimpale-logo.png') }}" alt=""
                         class="footer-logo1-descktop"></a>
                         <a
-                        href="tel:+919850085979
-                    "> <img src="{{ asset('/resources/assets/images/dr-renu-final-logo.png') }}" alt=""
+                        href="tel:+919850085079"> <img src="{{ asset('/resources/assets/images/dr-renu-final-logo.png') }}" alt=""
                         class="footer-logo1 footer-logo1-mobile "></a>
 
                     <!-- Text -->
@@ -88,43 +86,8 @@
 
                 </div>
             </div>
-
-
-            <!-- FOOTER CONTACTS -->
-            <div class="col-md-6 col-lg-5 ">
-                <div class="footer-box mb-40">
-
-                    <!-- Title -->
-                    <h5 class="h5-xs">Our Location</h5>
-                    <h5 class="h5-xs  tittle-footer"><i class="fa-solid fa-location-dot footer-icons"></i>Dr Aniruddha's Advance Ortho & Polyclinic</h5>
-
-                    <!-- Address -->
-                    <!--<p class="address-footer fisrt"></p>-->
-                    <p class="address-footer">Hinjewadi Main Road, Office No 103,</p>
-                    <p class="address-footer">Viva Icon, Wing A, Opposite to Xion Mall,</p>
-                    <p class="address-footer">Hinjewadi, Pimpri Chinchwad,</p>
-                    <p class="address-footer">Pune 411057</p>
-
-                    <h5 class="h5-xs tittle-footer"><i class="fa-solid fa-location-dot footer-icons"></i>Vitalife Clinic </h5>
-
-
-                    <!--<p class="address-footer fisrt"></i> </p>-->
-                    <p class="address-footer">Nisarg Tulip, Renuka Akruti, 1 & 2, </p>
-                    <p class="address-footer"> Datta Mandir Rd, near Dange Chowk Road,</p>
-                    <p class="address-footer">Shankar Kalat Nagar, Wakad, </p>
-                    <p class="address-footer">Pimpri-Chinchwad, Maharashtra 411057</p>
-
-
-                    <!-- Email -->
-
-
-
-                </div>
-            </div>
-
-
-            <!-- FOOTER LINKS -->
-            <div class="col-md-6 col-lg-3">
+             <!-- FOOTER LINKS -->
+             <div class="col-md-6 col-lg-3">
                 <div class="footer-links mb-40">
 
                     <!-- Title -->
@@ -138,14 +101,14 @@
                         <li><a href="#">Contact us</a></li>
                       
                     </ul> --}}
-                    <h5 class="h5-xs">Reach Us Here</h5>
+                    <h5 class="h5-xs ">Reach Us Here</h5>
                     <p class="foo-email mt-20"><i class="fa-solid fa-envelope footer-icons"></i> <a
                             href="mailto:renuapd@gmail.com
                         ">renuapd@gmail.com</a></p>
 
                     <!-- Phone -->
                     <p class="foo-email mt-20"><i class="fa-solid fa-phone footer-icons"></i> <a
-                            href="tel:+919850085979 ">+9198500 85079</a></p>
+                            href="tel:+919850085079">+91 9850085079</a></p>
                     <div class="footer-socials-links mt-20">
                         <!--<ul class="foo-socials text-center clearfix">-->
 
@@ -163,6 +126,42 @@
                 </div>
             </div>
 
+
+
+            <!-- FOOTER CONTACTS -->
+            <div class="col-md-6 col-lg-5 ">
+                <div class="footer-box mb-40">
+
+                    <!-- Title -->
+                    <h5 class="h5-xs">Our Location</h5>
+                    <h5 class="h5-xs  tittle-footer mob-sec"><i class="fa-solid fa-location-dot footer-icons"></i>Dr Aniruddha's Advance Ortho & Polyclinic</h5>
+
+                    <!-- Address -->
+                    <!--<p class="address-footer fisrt"></p>-->
+                    <p class="address-footer">Hinjewadi Main Road, Office No 103,</p>
+                    <p class="address-footer">Viva Icon, Wing A, Opposite to Xion Mall,</p>
+                    <p class="address-footer">Hinjewadi, Pimpri Chinchwad,</p>
+                    <p class="address-footer">Pune 411057</p>
+
+                    <h5 class="h5-xs tittle-footer mob-sec"><i class="fa-solid fa-location-dot footer-icons"></i>Vitalife Clinic </h5>
+
+
+                    <!--<p class="address-footer fisrt"></i> </p>-->
+                    <p class="address-footer">Nisarg Tulip, Renuka Akruti, 1 & 2, </p>
+                    <p class="address-footer"> Datta Mandir Rd, near Dange Chowk Road,</p>
+                    <p class="address-footer">Shankar Kalat Nagar, Wakad, </p>
+                    <p class="address-footer">Pimpri-Chinchwad, Maharashtra 411057</p>
+
+
+                    <!-- Email -->
+
+
+
+                </div>
+            </div>
+
+
+           
 
             <!-- FOOTER LINKS -->
             {{-- <div class="col-md-6 col-lg-2">
@@ -216,7 +215,7 @@
                 alt="Call"> Call Us</a>
     </div>
     <div class="d-lg-none d-xl-none d-md-none d-sm-none col-6" style="background-color:#10ba17;padding:8px;  ">
-        <a href="https://api.whatsapp.com/send?phone=9850085079  &amp;text=Hi,%20I%20want%20to%20Book%20an%20Appointment.%20"
+        <a href="https://api.whatsapp.com/send?phone=+919850085079  &amp;text=Hi,%20I%20want%20to%20Book%20an%20Appointment%20-%20Dr%20Renu%20Pimpale"
             style="color:white; font-size: 18px; text-decoration: none;">
             <img src="{{ asset('/resources/assets/images/whatsapp.png')}}" style="width: 32px;  " alt="Call">
             WhatsApp</a>

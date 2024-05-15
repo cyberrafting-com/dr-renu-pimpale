@@ -42,7 +42,7 @@
                     <div class="s2-page pr-30 mb-40">
 
                         <!-- Title -->
-                        <h1 class="h3-md blue-color main-titlt"> Acute Colitis in Pune   </h1>
+                        <h1 class="h3-md blue-color main-titlt"> Acute Colitis Treatment in Pune  </h1>
                      
                         <!-- Image -->
                         <div class="content-block-img text-center">

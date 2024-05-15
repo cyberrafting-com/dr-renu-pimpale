@@ -53,7 +53,7 @@
                             <div class="header-widget icon-xs">
                                 <span class="header-icons "><i class="fa-solid fa-phone header1-icon"></i></span>
                                 <div class="header-widget-txt">
-                                    <a href="tel:+919850085979" class="headers-links">
+                                    <a href="tel:+919850085079" class="headers-links">
                                         <p class="txt-400"> +91 9850085079</p>
                                     </a>
 

@@ -25,7 +25,7 @@ endure discomfort. Consult for effective relief! @endsection
                         </nav>
 
                         <!-- Title -->
-                        <h4 class="h4-sm steelblue-color">Ulcers</h4>
+                        <h4 class="h4-sm steelblue-color">Ulcers </h4>
 
                     </div>
                 </div>

@@ -49,7 +49,7 @@
                     <div class="s2-page pr-30 mb-40">
 
                         <!-- Title -->
-                        <h1 class="h3-md blue-color main-titlt">Anal Fissure in Pune
+                        <h1 class="h3-md blue-color main-titlt">Anal Fissure Treatment in Pune
 
 
                         </h1>

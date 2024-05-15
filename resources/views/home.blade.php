@@ -189,7 +189,7 @@
                             </p></a>
                         </div>
                         <a href="{{ route('laparoscopic-cholecystectomy') }}"> <img src="{{ asset('/resources/assets/images/gallbladder-icon.png') }}"
-                            class="lapro-icons d-none d-xs-none d-sm-none d-md-block d-lg-block d-xl-block"
+                            class="lapro-icons d-none d-xs-none d-sm-none d-md-none d-lg-block d-xl-block"
                             alt=""></a>
 
 
@@ -207,7 +207,7 @@
                             </p></a>
                         </div>
                         <a href="{{ route('laparoscopic-appendicectomy') }}"><img src="{{ asset('/resources/assets/images/appendix.png') }}"
-                            class="lapro-icons d-none d-xs-none d-sm-none d-md-block d-lg-block d-xl-block"
+                            class="lapro-icons d-none d-xs-none d-sm-none d-md-none d-lg-block d-xl-block"
                             alt=""></a>
 
                     </div>
@@ -224,7 +224,7 @@
                             </p></a>
                         </div>
                         <a href="{{ route('laparoscopic-hernia-treatment') }}"><img src="{{ asset('/resources/assets/images/inguinal-hernia.png') }}"
-                            class="lapro-icons d-none d-xs-none d-sm-none d-md-block d-lg-block d-xl-block"
+                            class="lapro-icons d-none d-xs-none d-sm-none d-md-none d-lg-block d-xl-block"
                             alt=""></a>
 
                     </div>
@@ -303,11 +303,11 @@
            ============================================= -->
     <section id="info-3" class="">
         <div class="container-fluid">
-            <div class="row d-flex align-items-center">
+            <div class="row justify-content-center">
 
 
                 <!-- INFO IMAGE -->
-                <div class="col-md-6 col-lg-6 col-xl-5 col-xxl-5">
+                <div class="col-md-10 col-lg-5 col-xl-5 col-xxl-5">
                     <div class="info-3-img text-center">
                         <img class="img-fluid"
                             src="{{ asset('/resources/assets/images/dr-renu-pimpale-aboupage-pic1.JPG') }}"
@@ -317,7 +317,7 @@
 
 
                 <!-- INFO TEXT -->
-                <div class="col-lg-6 col-xl-7 col-xxl-7 info-section division">
+                <div class="col-md-12 col-lg-7 col-xl-7 col-xxl-7 info-section division">
                     <div class="txt-block pc-30 white-color wow fadeInUp" data-wow-delay="0.4s">
 
                         <!-- Title -->
@@ -363,9 +363,9 @@
 
     <div id="statistic-1" class="bg-scroll statistic-section division">
         <div class="container white-color">
-            <div class="row">
+            <div class="row justify-content-center">
                 <!-- STATISTIC BLOCK #2 -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-4 col-lg-4">
 
                     <div class="statistic-block icon-lg wow fadeInUp" data-wow-delay="0.6s"
                         style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
@@ -383,7 +383,7 @@
 
 
                 <!-- STATISTIC BLOCK #1 -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-4 col-lg-4">
 
                     <div class="statistic-block icon-lg wow fadeInUp" data-wow-delay="0.4s"
                         style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
@@ -400,7 +400,7 @@
                 </div>
 
                 <!-- STATISTIC BLOCK #3 -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-4 col-lg-4">
                     <div class="statistic-block icon-lg wow fadeInUp" data-wow-delay="0.8s"
                         style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
 
@@ -504,7 +504,7 @@
                         </p>
                         <p class="hernia-sec-txt-last">Book your consultation now and rediscover the joy of a pain-free life!
                         </p>
-                        <a href="{{ route('contact') }}" class="btn btn-tra-white white-hover ">Book Appointment</a>  <a href="tel:+919850085979" class="btn btn-tra-white sec-button" >Call Now</a>
+                        <a href="{{ route('contact') }}" class="btn btn-tra-white white-hover ">Book Appointment</a>  <a href="tel:+919850085079" class="btn btn-tra-white sec-button" >Call Now</a>
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->
@@ -540,7 +540,7 @@
             </div>
             <div class="row">
                 <!--Blog One Single Start-->
-                <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay="100ms"
+                <div class="col-xl-4 col-lg-4 col-md-4 wow fadeInUp animated animated" data-wow-delay="100ms"
                     style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
                     <div class="blog-one__single">
                         <div class="blog-one__img">
@@ -575,7 +575,7 @@
                 </div>
                 <!--Blog One Single End-->
                 <!--Blog One Single Start-->
-                <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay="100ms"
+                <div class="col-xl-4 col-lg-4 col-md-4 wow fadeInUp animated animated" data-wow-delay="100ms"
                     style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
                     <div class="blog-one__single">
                         <div class="blog-one__img">
@@ -608,7 +608,7 @@
                 </div>
                 <!--Blog One Single End-->
                 <!--Blog One Single Start-->
-                <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay="100ms"
+                <div class="col-xl-4 col-lg-4 col-md-4 wow fadeInUp animated animated" data-wow-delay="100ms"
                     style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
                     <div class="blog-one__single">
                         <div class="blog-one__img">
@@ -660,7 +660,7 @@
             </div>
             <div class="row justify-content-center">
                 <!--Blog One Single Start-->
-                <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay="100ms"
+                <div class="col-xl-4 col-lg-4 col-md-4 wow fadeInUp animated animated" data-wow-delay="100ms"
                     style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
                     <div class="blog-one__single">
                         <div class="blog-one__img">
@@ -694,7 +694,7 @@
                 </div>
                 <!--Blog One Single End-->
                 <!--Blog One Single Start-->
-                <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay="100ms"
+                <div class="col-xl-4 col-lg-4 col-md-4 wow fadeInUp animated animated" data-wow-delay="100ms"
                     style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
                     <div class="blog-one__single">
                         <div class="blog-one__img">
@@ -747,7 +747,7 @@
             </div> <!-- END SECTION TITLE -->
 
 
-            <!google-logo-icon.png- TESTIMONIALS CONTENT -->
+            {{-- <!google-logo-icon.png- TESTIMONIALS CONTENT --> --}}
                 <div class="row">
                     <div class="col-md-12">
                         <div class="owl-carousel owl-theme reviews-holder">
